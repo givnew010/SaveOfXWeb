@@ -1,0 +1,6 @@
+{
+  "name": "مجموعات X",
+  "description": "تطبيق ويب لحفظ منشورات منصة X وتصنيفها في مجموعات مخصصة مع دعم المشاركة المباشرة (Web Share Target).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
